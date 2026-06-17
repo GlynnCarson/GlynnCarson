@@ -43,6 +43,10 @@ I'm a final-year Computer Science student at Strathmore University in Nairobi, K
 
 ## Featured Projects
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?size=16&pause=1500&color=67E8F9&center=true&vCenter=true&width=480&height=30&lines=%24+terraform+apply+-auto-approve;%24+docker+compose+up+--build;%24+airflow+dags+trigger+drl_pipeline;%24+python+train_agent.py+--episodes+1000" alt="Terminal Typing SVG" />
+</p>
+
 #### 🔋 DRL-Powered Hydropower Trading Agent & MLOps Pipeline
 *Capstone Project — Python · AWS · Terraform · Airflow · Docker · MLflow*
 
@@ -81,6 +85,14 @@ A shared vision-board app for collaborative goal-setting, a Secret Santa app for
 ## GitHub Stats
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GlynnCarson/GlynnCarson/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GlynnCarson/GlynnCarson/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/GlynnCarson/GlynnCarson/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GlynnCarson&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlynnCarson&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
@@ -105,5 +117,5 @@ A shared vision-board app for collaborative goal-setting, a Secret Santa app for
 - 📧 **Direct Contact:** cglynn.skip@gmail.com
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=120&section=footer&text=Thanks+for+stopping+by!&fontSize=20&fontColor=ffffff&fontAlignY=80&animation=twinkling" />
 </p>
