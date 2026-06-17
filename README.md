@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=GLYNN+CARSON&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software+Engineer+-+ML+Engineer+-+Algorithmic+Trader&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=GLYNN+Carson&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software+Engineer+-+ML+Engineer+-+Algorithmic+Trader&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GlynnCARSON&style=for-the-badge&color=67e8f9&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GlynnCarson&style=for-the-badge&color=67e8f9&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Open_to_Work-2c5364?style=for-the-badge" alt="Open to Work" />
 </p>
 
-# Hi there, I'm Glynn CARSON 👋
+# Hi there, I'm Glynn Carson 👋
 
 I'm a final-year Computer Science student at Strathmore University in Nairobi, Kenya, building software where machine learning, cloud infrastructure, and financial markets meet. I like taking systems from proof-of-concept to production — whether that's an MLOps pipeline for a trading agent, a tax-integration app for the Kenya Revenue Authority, or a game with a real payment system attached. Off the keyboard, I trade gold (XAU/USD) using ICT and Smart Money Concepts, which usually finds its way back into the bots and indicators I build.
 
@@ -83,7 +83,7 @@ A shared vision-board app for collaborative goal-setting, a Secret Santa app for
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GlynnCarson&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlynnCARSON&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlynnCarson&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -91,11 +91,11 @@ A shared vision-board app for collaborative goal-setting, a Secret Santa app for
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GlynnCARSON&theme=tokyonight&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GlynnCarson&theme=tokyonight&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GlynnCARSON&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GlynnCarson&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
