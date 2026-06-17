@@ -81,13 +81,13 @@ A shared vision-board app for collaborative goal-setting, a Secret Santa app for
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GlynnCARSON&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GlynnCarson&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlynnCARSON&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GlynnCARSON&hide_border=true&background=0F0C29&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892B0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=GlynnCarson&hide_border=true&background=0F0C29&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892B0" alt="GitHub Streak" />
 </p>
 
 <p align="center">
